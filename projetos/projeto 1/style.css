@@ -1,0 +1,48 @@
+.container {
+    padding: 0px 300px;
+}
+body {
+    background-color: rgb(15, 14, 14);
+    color: white;
+    font-size: larger;
+}
+header img {
+    border-radius: 25%;
+    border: 5px solid rgb(123, 199, 10);  
+}
+.Eu {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: rgb(123, 199, 10);
+}
+p {
+    text-align: center;
+    letter-spacing: 1px;
+}
+article {
+    display: flex;
+    text-align: center;
+    justify-content: space-around
+}
+ul {
+    list-style: none;
+}
+.contato {
+    padding-right: 100px;
+    text-align: center;
+}
+footer {
+    display: flex;
+    justify-content: center; 
+}
+footer a {
+    margin: 10px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+footer p {
+    margin-top: 1px;
+}
